@@ -1,0 +1,185 @@
+2021-11-15 18:54:11,261  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 18:54:11,346  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 18:54:15,761  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 18:54:39,752  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 18:54:39,756  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 18:54:56,799  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 18:55:09,414  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 18:55:09,861  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 18:55:13,555  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 18:55:13,558  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 18:55:16,309  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 18:55:33,118  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 18:55:33,221  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 18:55:38,254  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-15 18:55:41,632  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 18:55:41,641  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 18:55:46,653  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 18:57:40,660  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 18:57:40,718  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 18:57:44,423  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 18:58:07,240  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 18:58:07,244  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 18:58:18,676  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 18:58:28,957  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 18:58:29,385  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 18:58:31,346  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 18:58:31,349  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 18:58:34,652  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 18:58:50,199  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 18:58:50,295  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 18:58:55,330  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-15 18:58:59,479  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 18:58:59,488  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 18:59:04,501  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 19:00:11,577  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 19:00:11,633  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 19:00:15,418  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 19:00:39,805  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 19:00:39,809  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 19:00:52,200  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 19:01:10,484  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 19:01:10,840  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 19:01:12,605  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 19:01:12,643  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 19:01:16,059  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 19:01:35,395  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 19:01:35,471  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 19:01:40,498  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-15 19:01:42,365  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 19:01:42,394  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 19:01:47,410  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 19:56:42,159  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 19:56:42,211  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 19:56:46,520  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 19:57:00,988  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 19:57:00,990  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 19:57:10,419  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 19:57:21,365  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 19:57:21,754  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 19:57:23,827  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 19:57:23,847  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 19:57:27,290  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:33:42,034  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:33:42,094  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:33:45,688  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:34:02,012  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:34:02,027  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:34:11,378  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 21:34:22,509  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 21:34:23,183  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:35:05,468  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:35:05,505  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:35:06,020  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:35:06,157  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:35:09,169  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:35:09,403  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:35:19,902  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:35:19,906  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:35:20,081  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:35:20,092  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:35:28,087  INFO [main] nopcommerce:195 - ********* Search Customer by Email ID Scenario started ***************
+2021-11-15 21:35:30,257  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:35:30,263  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:35:31,919  INFO [main] nopcommerce:209 - ********* Search customer by email validation ***************
+2021-11-15 21:35:31,995  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:35:33,266  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:35:35,298  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:35:35,301  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:35:38,247  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:35:43,559  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:35:43,560  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:35:48,576  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:35:48,579  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:35:49,674  INFO [main] nopcommerce:195 - ********* Search Customer by Email ID Scenario started ***************
+2021-11-15 21:35:53,578  INFO [main] nopcommerce:209 - ********* Search customer by email validation ***************
+2021-11-15 21:35:53,651  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:35:55,652  INFO [main] nopcommerce:217 - ********* Seqarch custoemr by Name Scenario started ***************
+2021-11-15 21:35:55,763  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
+2021-11-15 21:35:57,097  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:35:57,103  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:35:59,551  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
+2021-11-15 21:35:59,617  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:36:00,028  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:36:03,075  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:36:03,083  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:36:06,066  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:36:10,941  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:36:10,945  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:36:15,596  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 21:36:15,712  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 21:36:18,031  INFO [main] nopcommerce:217 - ********* Seqarch custoemr by Name Scenario started ***************
+2021-11-15 21:36:18,102  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
+2021-11-15 21:36:20,744  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-15 21:36:21,888  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
+2021-11-15 21:36:21,956  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:36:23,350  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 21:36:23,369  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 21:36:25,241  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:36:25,245  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:36:27,314  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:36:28,374  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:36:35,438  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 21:36:35,602  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 21:37:14,385  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:37:14,438  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:37:17,857  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:37:34,262  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:37:34,264  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:37:43,112  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-15 21:37:52,449  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-15 21:37:53,348  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:37:55,063  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:37:55,083  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:37:58,101  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:38:08,350  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:38:08,350  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:38:10,800  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:38:10,804  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:38:13,975  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:38:29,505  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-15 21:38:29,509  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-15 21:38:37,113  INFO [main] nopcommerce:217 - ********* Seqarch custoemr by Name Scenario started ***************
+2021-11-15 21:38:37,752  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
+2021-11-15 21:38:41,205  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
+2021-11-15 21:38:41,323  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-15 21:38:44,531  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-15 21:38:44,539  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-15 21:38:48,082  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-15 21:39:05,978  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-15 21:39:06,085  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-15 21:39:11,105  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-27 17:11:09,302  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-27 17:11:09,339  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-27 17:11:14,147  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-27 17:11:38,885  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-27 17:11:38,890  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-27 17:11:52,694  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2021-11-27 17:12:02,399  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2021-11-27 17:12:02,475  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-27 17:12:03,600  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-27 17:12:03,620  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-27 17:12:07,145  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-27 17:12:19,819  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-27 17:12:19,835  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-27 17:12:31,597  INFO [main] nopcommerce:195 - ********* Search Customer by Email ID Scenario started ***************
+2021-11-27 17:12:34,704  INFO [main] nopcommerce:209 - ********* Search customer by email validation ***************
+2021-11-27 17:12:34,742  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-27 17:12:35,927  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-27 17:12:35,965  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-27 17:12:38,261  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-27 17:12:48,572  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2021-11-27 17:12:48,573  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2021-11-27 17:13:04,108  INFO [main] nopcommerce:217 - ********* Seqarch custoemr by Name Scenario started ***************
+2021-11-27 17:13:04,163  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
+2021-11-27 17:13:07,246  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
+2021-11-27 17:13:07,307  INFO [main] nopcommerce:116 - *********Closing application ***************
+2021-11-27 17:13:08,309  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2021-11-27 17:13:08,382  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2021-11-27 17:13:10,712  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2021-11-27 17:13:19,923  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-27 17:13:19,977  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-27 17:13:24,991  INFO [main] nopcommerce:110 - *********Logout from application***************
+2021-11-27 17:13:36,033  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2021-11-27 17:13:36,038  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2021-11-27 17:13:41,043  INFO [main] nopcommerce:116 - *********Closing application ***************
